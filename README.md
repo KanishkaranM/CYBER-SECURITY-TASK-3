@@ -50,23 +50,22 @@ Used the **IPv4 Address** as the scan target.
 
 ---
 
-## 📁 Repository Structure  
+## 🖼️ Screenshots  
 
-task-3-vulnerability-scan/
-│
-├── screenshots/
-│ ├── dashboard.png
-│ ├── vulnerabilities.png
-│ ├── critical_issue.png
-│ └── medium_issue.png
-│
-├── report.pdf
-└── README.md
+### 🔹 Dashboard Screenshot  
+![Dashboard Screenshot](screenshots/dashboard.png)
 
-yaml
-Copy code
+### 🔹 Vulnerability Summary  
+![Vulnerability Summary](screenshots/Vulnerabilities.png)
+
+### 🔹 Critical Vulnerability Example  
+![Critical Issue Screenshot](screenshots/Details.png)
+
+### 🔹 Medium Vulnerability Example  
+![Medium Issue Screenshot](screenshots/medium_issue.png)
 
 ---
+
 
 ## 🔍 Vulnerability Summary  
 
@@ -83,19 +82,7 @@ Copy code
 
 ---
 
-## 🧠 Learnings & Key Insights  
-- Learned how automated vulnerability scanners detect security issues  
-- Understood **CVSS scores** and how vulnerabilities are prioritized  
-- Identified common risks such as outdated software, exposed ports, and weak configurations  
-- Gained experience in generating and auditing a real vulnerability report  
-- Understood basic remediation and mitigation strategies  
 
----
-
-## 🏁 Conclusion  
-This task provided hands-on experience with practical cybersecurity tools. Running Nessus Essentials helped me understand how vulnerabilities are detected, categorized, and analyzed. This enhanced my skills in vulnerability assessment and strengthened my foundational cybersecurity knowledge.
-
----
 
 ## 📤 Submission  
 All necessary files — PDF report, screenshots, and README — are included in this repository as required by the internship task instructions.
