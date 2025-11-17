@@ -53,7 +53,7 @@ Used the **IPv4 Address** as the scan target.
 ## 🖼️ Screenshots  
 
 ### 🔹 Dashboard Screenshot  
-![Dashboard Screenshot](screenshot/dashboard.png)
+![Dashboard Screenshot](screenshot/Dashboard.png)
 
 ### 🔹 Vulnerability Summary  
 ![Vulnerability Summary](screenshot/Vulnerabilities.png)
@@ -62,7 +62,7 @@ Used the **IPv4 Address** as the scan target.
 ![Critical Issue Screenshot](screenshot/Details.png)
 
 ### 🔹 Medium Vulnerability Example  
-![Medium Issue Screenshot](screenshots/Details.png)
+![Medium Issue Screenshot](screenshots/NessusScanReport/pdf)
 
 ---
 
