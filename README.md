@@ -53,16 +53,16 @@ Used the **IPv4 Address** as the scan target.
 ## 🖼️ Screenshots  
 
 ### 🔹 Dashboard Screenshot  
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshot/dashboard.png)
 
 ### 🔹 Vulnerability Summary  
-![Vulnerability Summary](screenshots/Vulnerabilities.png)
+![Vulnerability Summary](screenshot/Vulnerabilities.png)
 
 ### 🔹 Critical Vulnerability Example  
-![Critical Issue Screenshot](screenshots/Details.png)
+![Critical Issue Screenshot](screenshot/Details.png)
 
 ### 🔹 Medium Vulnerability Example  
-![Medium Issue Screenshot](screenshots/medium_issue.png)
+![Medium Issue Screenshot](screenshots/Details.png)
 
 ---
 
